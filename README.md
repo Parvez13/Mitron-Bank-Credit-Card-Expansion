@@ -32,4 +32,4 @@ banking(10.21%). Specially, salaried IT professionals are the highest users of c
 * Salaried IT professionals hold the highest income at 38.51% among other professionals, follwed by business owners(21.37%), salaried
 other professionals(16.77%), freelancers(13.3%) and government employees(10.05%
 
-Live Dashboard Link: https://app.powerbi.com/groups/me/reports/36d6da54-c3b0-4a73-b386-214e296ba3e5/ReportSection7300183790697d5d0ea1?experience=power-bi
+Live Dashboard Link: [https://app.powerbi.com/groups/me/reports/36d6da54-c3b0-4a73-b386-214e296ba3e5/ReportSection7300183790697d5d0ea1?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiZDY5NTRlOTMtYWNjNS00MDdmLTgyYzMtMTZhOWE4MzNkYjBkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)https://app.powerbi.com/view?r=eyJrIjoiZDY5NTRlOTMtYWNjNS00MDdmLTgyYzMtMTZhOWE4MzNkYjBkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
